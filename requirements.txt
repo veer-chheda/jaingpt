@@ -218,9 +218,6 @@ pyparsing==3.1.2
 pypdf==4.2.0
 PyPika==0.48.9
 pyproject_hooks==1.1.0
-PyQt5==5.15.10
-PyQt5-Qt5==5.15.13
-PyQt5-sip==12.13.0
 PySocks==1.7.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
@@ -230,7 +227,6 @@ python-ptrace==0.9.9
 pytz==2024.1
 PyYAML==6.0.1
 pyzmq==25.1.2
-QtPy==2.4.1
 quantulum3==0.9.1
 rank-bm25==0.2.2
 rapidfuzz==3.9.3
